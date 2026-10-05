@@ -1,0 +1,1 @@
+Pasta reservada para logo, ícones e imagens do SkillMatch.
